@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-homework_0,1_fuckingshet
+01_home_work_fucking shet
